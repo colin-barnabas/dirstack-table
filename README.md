@@ -1,4 +1,4 @@
-## Display `$dirstack` in fancy tbl
+## Display `$dirstack` in fancy tbl(1)
 ```
 03:13:02 ❯ d
                 ┌─────────────────────────┐
