@@ -1,4 +1,4 @@
-## Display `$dirstack` in fancy tbl(1)
+## Display `$dirstack` in fancy `tbl(1)`
 
 Reference elements in `$dirstack` via numerical index or string.
 
